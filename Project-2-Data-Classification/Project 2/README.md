@@ -27,7 +27,7 @@ Make Predictions
     ↓
 Evaluate the Model
 ```
-##What I Worked On
+## What I Worked On
 -> Loading and exploring the dataset
 -> Understanding the features and target variable
 -> Data preprocessing
@@ -44,7 +44,7 @@ Evaluate the Model
 -> Matplotlib
 -> Scikit-learn
 
-##What I Learned
+## What I Learned
 This project helped me understand the basic workflow of a machine learning classification problem.
 
 I learned how to work with a dataset, prepare data for a model, train a classification algorithm, generate predictions, and evaluate the model's performance.
