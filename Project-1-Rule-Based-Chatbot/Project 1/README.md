@@ -51,24 +51,24 @@ Display Response
     ↓
 Continue Conversation
 ```
-What I Learned
+## What I Learned
 
 This project helped me strengthen my Python fundamentals and understand how a simple conversational system can be created using rule-based logic.
 
 I also learned how to structure a Python program into different functions and create an interactive command-line application.
 
-How to Run
+## How to Run
 
 Make sure Python is installed.
 
-Run:
+## Run:
 
 python interbot.py
 
-Project Screenshots
+## Project Screenshots
 
 This folder contains screenshots showing the chatbot's code, execution, interaction, and output.
 
-Internship
+## Internship
 
 DecodeLabs Artificial Intelligence Internship — Project 1
